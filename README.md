@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praizeokidi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html 
+- 🌱 I’m currently learning whatever I can
 - 💞️ I’m looking to collaborate on any or all coding languages 
 - 📫 How to reach me praizeokidi@gmail.com
 
