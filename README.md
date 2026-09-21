@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praizeokidi
-- 👀 I’m FrontEnd Developer
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m FullStack Developer
+- 🌱 I’m currently perfecting Android Mobile Development
 - 💞️ I’m looking to collaborate on any or all coding languages 
 - 📫 How to reach me praizeokidi@gmail.com. Whatsapp: +234-9050043601
 
